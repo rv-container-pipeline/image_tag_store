@@ -1,5 +1,6 @@
 {
   "images": {
-    "redventures-container-pipeline-docker.jfrog.io/rv-go-build": "1.0.9"
+    "redventures-container-pipeline-docker.jfrog.io/rv-go-build": "1.0.9",
+    "redventures-container-pipeline-docker.jfrog.io/rv-node-build": "1.0.1"
   }
 }
