@@ -4,7 +4,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-node-build": "1.0.1",
     "yates-cmg-test-org/redventures-container-pipeline-docker.jfrog.io/rv-node-build": "1.0.1",
     "yates-cmg-test-org/rv-node-build": "1.0.1",
-    "rv-node-build": "1.0.1",
+    "rv-node-build": "1.0.3",
     "test/rv-node-build": "1.0.1"
   }
 }
