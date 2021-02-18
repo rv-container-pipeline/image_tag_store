@@ -1,5 +1,6 @@
 {
   "images": {
-    "rv-node-build": "1.0.1"
+    "rv-node-build": "1.0.1",
+    "test/rv-node-build": "1.0.1"
   }
 }
