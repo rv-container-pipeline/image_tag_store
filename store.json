@@ -1,6 +1,6 @@
 {
   "images": {
-    "rv-node-build": "1.0.3",
+    "rv-node-build": "1.0.4",
     "test/rv-node-build": "1.0.1",
     "redventures-container-pipeline-docker.jfrog.io/rv-node-build": "1.0.3",
     "redventures-container-pipeline-docker.jfrog.io/rv-python-runtime": "1.0.7",
