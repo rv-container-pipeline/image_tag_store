@@ -9,6 +9,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-go-build": "1.0.1",
     "redventures-container-pipeline-docker.jfrog.io/rv-python-build": "1.0.2",
     "redventures-container-pipeline-docker.jfrog.io/yates-go-build": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/yates-go-runtime": "1.0.0"
+    "redventures-container-pipeline-docker.jfrog.io/yates-go-runtime": "1.0.0",
+    "redventures-container-pipeline-docker.jfrog.io/yates-node-build": "1.0.0"
   }
 }
