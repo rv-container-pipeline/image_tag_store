@@ -1,18 +1,10 @@
 {
   "images": {
-    "rv-node-build": "1.0.4",
-    "test/rv-node-build": "1.0.1",
-    "redventures-container-pipeline-docker.jfrog.io/rv-node-build": "1.0.3",
+    "redventures-container-pipeline-docker.jfrog.io/rv-node-build": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-python-runtime": "1.0.1",
     "redventures-container-pipeline-docker.jfrog.io/rv-node-runtime": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-go-runtime": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-go-build": "1.0.1",
-    "redventures-container-pipeline-docker.jfrog.io/rv-python-build": "1.0.2",
-    "redventures-container-pipeline-docker.jfrog.io/yates-go-build": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/yates-go-runtime": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/yates-node-build": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/yates-node-runtime": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/yates-python-build": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/yates-python-runtime": "1.0.0"
+    "redventures-container-pipeline-docker.jfrog.io/rv-go-build": "1.0.0",
+    "redventures-container-pipeline-docker.jfrog.io/rv-python-build": "1.0.0",
   }
 }
