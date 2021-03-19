@@ -1,10 +1,5 @@
 {
   "images": {
-    "redventures-container-pipeline-docker.jfrog.io/rv-node-build": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-python-runtime": "1.0.1",
-    "redventures-container-pipeline-docker.jfrog.io/rv-node-runtime": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-go-runtime": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-go-build": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-python-build": "1.0.0",
+    "redventures-container-pipeline-docker.jfrog.io/rv-python-runtime": "1.0.1"
   }
 }
