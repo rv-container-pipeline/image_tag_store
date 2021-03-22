@@ -1,5 +1,6 @@
 {
   "images": {
-    "redventures-container-pipeline-docker.jfrog.io/rv-python-runtime": "1.0.1"
+    "redventures-container-pipeline-docker.jfrog.io/rv-python-runtime": "1.0.1",
+    "jfrog.io/rv-python-runtime": "1.0.1"
   }
 }
