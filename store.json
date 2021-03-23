@@ -4,6 +4,7 @@
     "jfrog.io/rv-python-runtime": "1.0.1",
     "rv-python-runtime": "1.0.1",
     "redventures container pipeline docker.jfrog.io/rv python runtime": "1.0.1",
-    "redventures.container.pipeline.docker.jfrog.io/rv.python.runtime": "1.0.1"
+    "redventures.container.pipeline.docker.jfrog.io/rv.python.runtime": "1.0.1",
+    "redventures-container-pipeline-docker.jfrog.io/rv-node-build": "1.0.1"
   }
 }
