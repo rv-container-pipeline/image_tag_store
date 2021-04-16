@@ -10,6 +10,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-node-runtime": "1.0.1",
     "redventures-container-pipeline-docker.jfrog.io/rv-node-12-alpine": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-node-12-buster": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-node-14-alpine": "1.0.0"
+    "redventures-container-pipeline-docker.jfrog.io/rv-node-14-alpine": "1.0.0",
+    "redventures-container-pipeline-docker.jfrog.io/rv-node-14-buster": "1.0.0"
   }
 }
