@@ -16,6 +16,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-node-15-buster": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-python-3.7-buster": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-python-3.7-slim": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-python-3.9-buster": "1.0.0"
+    "redventures-container-pipeline-docker.jfrog.io/rv-python-3.9-buster": "1.0.0",
+    "redventures-container-pipeline-docker.jfrog.io/rv-python-3.9-slim": "1.0.0"
   }
 }
